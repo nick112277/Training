@@ -11,5 +11,6 @@ int somma;
 somma=a+b;
 
 cout<<somma<<endl;
+cout<<"fine"<<endl;
 
 }
